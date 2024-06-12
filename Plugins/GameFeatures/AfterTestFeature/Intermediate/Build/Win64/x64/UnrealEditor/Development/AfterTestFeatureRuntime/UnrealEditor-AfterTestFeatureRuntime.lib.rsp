@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AfterTestFeatureRuntime.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UEProjects\After\Intermediate\Build\Win64\x64\AfterEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"D:\UEProjects\After\Plugins\GameFeatures\AfterTestFeature\Intermediate\Build\Win64\x64\UnrealEditor\Development\AfterTestFeatureRuntime\Module.AfterTestFeatureRuntime.cpp.obj"
+"D:\UEProjects\After\Plugins\GameFeatures\AfterTestFeature\Intermediate\Build\Win64\x64\UnrealEditor\Development\AfterTestFeatureRuntime\Default.rc2.res"
+/OUT:"D:\UEProjects\After\Plugins\GameFeatures\AfterTestFeature\Intermediate\Build\Win64\x64\UnrealEditor\Development\AfterTestFeatureRuntime\UnrealEditor-AfterTestFeatureRuntime.lib"
